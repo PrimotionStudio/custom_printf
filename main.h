@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <stdarg>
 
+int _putchar(char c);
 int handle_char(va_list print);
 
 #endif
